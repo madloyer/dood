@@ -4,4 +4,4 @@
 
 import os
 
-API_KEY = "272480tnxvpqma6hzqk5vk"
+API_KEY = "23360iv2p0hsq89arbyf4"
